@@ -7,9 +7,10 @@ redirect_from:
   - /articles/managing-billing-for-github-sponsors
 versions:
   fpt: '*'
+  ghec: '*'
 children:
   - /about-billing-for-github-sponsors
   - /upgrading-a-sponsorship
   - /downgrading-a-sponsorship
+  - /setting-an-end-date-to-a-sponsorship
 ---
-

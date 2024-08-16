@@ -6,9 +6,15 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-github-actions
 versions:
   fpt: '*'
+  ghec: '*'
 children:
   - /about-billing-for-github-actions
   - /viewing-your-github-actions-usage
   - /managing-your-spending-limit-for-github-actions
 ---
 
+{% ifversion enhanced-billing-platform %}
+
+{% data reusables.billing.enhanced-billing-platform %}
+
+{% endif %}
